@@ -786,7 +786,6 @@ class RISCV_Pipeline
 };
 int main()
 {
-    freopen(".\\riscv-testcases\\testcases\\naive.data","r",stdin);
     while (true){
             unsigned int ins=read();
             //printf("%x\n",ins);
