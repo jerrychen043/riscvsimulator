@@ -697,7 +697,7 @@ class RISCV_Pipeline
 };
 int main()
 {
-    freopen(".\\riscv-testcases\\testcases\\pi.data","r",stdin);
+    //freopen(".\\riscv-testcases\\testcases\\pi.data","r",stdin);
     while (true){
             unsigned int ins=read();
             //printf("%x\n",ins);
