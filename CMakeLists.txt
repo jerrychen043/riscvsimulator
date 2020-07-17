@@ -3,4 +3,4 @@ project(https://github.com/jerrychen043/riscvsimulator)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(riscvsimulator_v2.cpp)
+add_executable(code riscvsimulator_v2.cpp)
